@@ -1,2 +1,3 @@
 *.msi
 *.exe
+/test1.txt
